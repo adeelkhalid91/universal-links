@@ -1,11 +1,13 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "P366V6UK3L.com.mindstormstudios.readme",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
